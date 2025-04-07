@@ -66,7 +66,7 @@ int g()
     HWND consoleWindow = GetConsoleWindow();
 
     if (consoleWindow == NULL) {
-        std::cerr << "Error: Could not get console window handle." << std::endl;s
+        std::cerr << "Error: Could not get console window handle." << std::endl;
         DWORD error = GetLastError();
         std::cerr << "GetLastError() returned: " << error << std::endl;
         return 1; // Indicate failure
