@@ -1,2 +1,0 @@
-C:\Users\HeX\source\repos\ConsoleApp15\bin\Release\net8.0\publish\win-x64\ConsoleApp15.pdb
-C:\Users\HeX\source\repos\ConsoleApp15\bin\Release\net8.0\publish\win-x64\ConsoleApp15.exe
