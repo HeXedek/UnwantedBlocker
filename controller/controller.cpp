@@ -165,7 +165,7 @@ int wmain() {
         std::wstring processPath(buffer);
         std::wcout << L"[Controller] Received process path: " << processPath << std::endl;
 
-        std::wstring message = L"YO NIGGA YOU SURE YOU WANT TO RUN TS?\n" + processPath;
+        std::wstring message = L"YO MY NIGGA YOU SURE YOU WANT TO RUN TS?\n" + processPath;
 
         int response = MessageBoxW(NULL, message.c_str(), L"Process Blocker", MB_YESNO | MB_ICONQUESTION | MB_TOPMOST);
 
