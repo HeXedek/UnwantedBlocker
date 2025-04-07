@@ -78,7 +78,7 @@ bool IsTrustedDirectory(const std::wstring& processPath) {
 
 const std::set<std::wstring> SUSPICIOUS_EXTENSIONS = {
     L".msi", L".js", L".hta", L".vbs", L".bat", L".cmd", L".scr",
-    L".pif", L".ps1", L".jar", L".com", L".cpl", L".dll", L".sys", L".lnk", L".reg"
+    L".pif", L".ps1", L".jar", L".py", L".com", L".cpl", L".dll", L".sys", L".lnk", L".reg"
 };
 
 bool IsSuspiciousFile(const std::wstring& filePath) {
@@ -174,7 +174,7 @@ bool AskController(const std::wstring& path) {
     DWORD read;
     BOOL result = ReadFile(hPipe, response, sizeof(response), &read, NULL);
     if (!result) {
-        // Obs³uga b³êdu
+        // ObsÂ³uga bÂ³Ãªdu
         CloseHandle(hPipe);
         return false; // lub inna odpowiednia akcja
     }
