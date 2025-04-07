@@ -1,0 +1,14 @@
+C:\Users\HeX\source\repos\ConsoleApp15\bin\Release\net8.0\ConsoleApp15.exe
+C:\Users\HeX\source\repos\ConsoleApp15\bin\Release\net8.0\ConsoleApp15.deps.json
+C:\Users\HeX\source\repos\ConsoleApp15\bin\Release\net8.0\ConsoleApp15.runtimeconfig.json
+C:\Users\HeX\source\repos\ConsoleApp15\bin\Release\net8.0\ConsoleApp15.dll
+C:\Users\HeX\source\repos\ConsoleApp15\bin\Release\net8.0\ConsoleApp15.pdb
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ConsoleApp15.AssemblyInfo.cs
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ConsoleApp15.dll
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\refint\ConsoleApp15.dll
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ConsoleApp15.pdb
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ConsoleApp15.genruntimeconfig.cache
+C:\Users\HeX\source\repos\ConsoleApp15\obj\Release\net8.0\ref\ConsoleApp15.dll
