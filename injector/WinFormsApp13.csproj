@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="fanumtax.exe" />
+    <None Remove="main.dll" />
+    <None Remove="startasnonadmin.exe" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="fanumtax.exe" />
+    <EmbeddedResource Include="main.dll" />
+    <EmbeddedResource Include="startasnonadmin.exe" />
+  </ItemGroup>
+
+</Project>

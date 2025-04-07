@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp13", "WinFormsApp13.csproj", "{EF04B0FA-8A99-4311-9726-AC93A510529F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Debug|x64.ActiveCfg = Debug|x64
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Debug|x64.Build.0 = Debug|x64
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Release|x64.ActiveCfg = Release|x64
+		{EF04B0FA-8A99-4311-9726-AC93A510529F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
