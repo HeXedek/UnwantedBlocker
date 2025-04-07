@@ -7,4 +7,12 @@ The injector every 700ms checks if cmd, powershell, explorer processes have inje
 ## Did it took me long to make it?
 more than a day idk and yes i used chatgpt but it was stupid it said it fixed smth and didn't do anything actually. The injector code is mostly made by me because i know c#.
 
+## How to build it?
+Firstly build dll, controller, startasnonadmin2
+
+**Make sure the executables are single file (for startasnonadmin publish it with single file configuration)**
+**For anything else just use visual studio because its set up already**
+
+Then copy all files you just built to the injector directory and build it. MAKE SURE DLL AND ALL EXECUTABLES ARE SET AS EMBEDDED RESOURCE
+
 ### Im sorry for every mistake or smth i made wrongly there but this is my first c++ project PLS UNDERSTAND😭
