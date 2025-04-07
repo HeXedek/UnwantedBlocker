@@ -71,9 +71,9 @@
             label1.ForeColor = Color.White;
             label1.Location = new Point(248, 119);
             label1.Name = "label1";
-            label1.Size = new Size(134, 20);
+            label1.Size = new Size(130, 20);
             label1.TabIndex = 4;
-            label1.Text = "click ts first or rape";
+            label1.Text = "click ts first or wrrr";
             // 
             // Form1
             // 
@@ -88,7 +88,7 @@
             MaximumSize = new Size(617, 278);
             MinimumSize = new Size(617, 278);
             Name = "Form1";
-            Text = "george floyd antinigga";
+            Text = "UnwantedBlocker";
             FormClosing += Form1_FormClosing;
             Load += Form1_Load;
             ResumeLayout(false);
